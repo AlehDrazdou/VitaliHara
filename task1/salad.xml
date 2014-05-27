@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salad>
+<vegetable type="Tomato">
+    <weight>250</weight>
+    <calorie>100</calorie>
+    <size>medium</size>
+    <color>red</color>
+</vegetable>
+<vegetable type="Tomato">
+    <weight>150</weight>
+    <calorie>80</calorie>
+    <size>small</size>
+    <color>green</color>
+</vegetable>
+<vegetable type="Carrot">
+<weight>300</weight>
+<calorie>150</calorie>
+</vegetable>
+<vegetable type="Radish">
+<weight>140</weight>
+<calorie>100</calorie>
+<size>medium</size>
+</vegetable>
+<vegetable type="Onion">
+<weight>100</weight>
+<calorie>60</calorie>
+<kind>bulb</kind>
+</vegetable>
+    <vegetable type="Cucumber">
+        <weight>200</weight>
+        <calorie>170</calorie>
+        <salinity>fresh</salinity>
+    </vegetable>
+    <vegetable type="Pepper">
+        <weight>180</weight>
+        <calorie>110</calorie>
+        <color>yellow</color>
+    </vegetable>
+</salad>
